@@ -1,0 +1,12 @@
+{
+  "name": "react-native-popup-select",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.jsx",
+  "scripts": {
+    "publish": "npm publish --access public"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
